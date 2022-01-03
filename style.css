@@ -1,0 +1,21 @@
+#patika {
+  width: 200px;
+  height: 200px;
+}
+
+
+.dropzone {
+  border: solid 6px rgba(38, 0, 255, 0.2);
+  border-radius: 10px;
+  width: 200px;
+  height: 200px;
+  margin: 10px;
+  background: rgb(237, 235, 240);
+  margin-bottom: 10px;
+  padding: 10px;
+  float: left;
+}
+body {
+    background-color: rgb(104, 16, 163);
+
+}
